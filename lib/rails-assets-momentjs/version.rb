@@ -1,3 +1,3 @@
 module RailsAssetsMomentjs
-  VERSION = "2.22.2"
+  VERSION = '2.22.3'.freeze
 end
